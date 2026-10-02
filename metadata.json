@@ -1,0 +1,6 @@
+{
+  "name": "Swiggy Replica - Food Delivery & Tech Stack",
+  "description": "A feature-complete Swiggy food delivery app replica with interactive menus, cart & checkout, live order tracking, and an interactive Spring Boot / SQL / Jenkins backend architecture inspector for resume showcasing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
